@@ -10,6 +10,7 @@ import java.awt.Font;
 
 public class Cliente extends JFrame implements ActionListener, Runnable
 {
+	
 	private static final long serialVersionUID = 1L;
 	private JTextField mensaje = new JTextField();
 	private JScrollPane scrollpane;
